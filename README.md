@@ -14,7 +14,7 @@ The system is designed to help users practice real-world language usage through 
 - Frontend: VueJS / HTML / CSS
 - Backend: API-based logic
 - AI Integration: GPT-based language model
-- Database: Firebase
+- Database: Firebase MySQL
 
 ## My Role
 - Designed the overall system architecture
